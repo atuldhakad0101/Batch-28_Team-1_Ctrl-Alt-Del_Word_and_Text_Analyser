@@ -1,4 +1,4 @@
-# Word and Text Analyzer (Problem Statement 9)
+# Batch-28_Team-1_Alt+Ctrl+Del_Word_and_Text_Analyser
 
 A C programming mini-hackathon project that analyzes a user-entered word or sentence to generate a complete text statistics report and verify whether the input is a palindrome.
 
