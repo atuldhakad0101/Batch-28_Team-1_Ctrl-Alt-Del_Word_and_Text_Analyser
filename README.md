@@ -200,4 +200,5 @@ BatchXX_Team01_WordTextAnalyzer/
 └── screenshots/
     ├── test_sentence.png
     └── test_palindrome.png
-```
+```<img width="4612" height="21316" alt="Flowchart Word   Text analyser" src="https://github.com/user-attachments/assets/c8810451-d639-4ea1-bf37-78e95985127d" />
+
